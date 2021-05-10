@@ -1,0 +1,10 @@
+C:\Users\v\Desktop\c# programming\Consoleprg4\Consoleprg4\bin\Debug\netcoreapp3.1\Consoleprg4.exe
+C:\Users\v\Desktop\c# programming\Consoleprg4\Consoleprg4\bin\Debug\netcoreapp3.1\Consoleprg4.deps.json
+C:\Users\v\Desktop\c# programming\Consoleprg4\Consoleprg4\bin\Debug\netcoreapp3.1\Consoleprg4.runtimeconfig.json
+C:\Users\v\Desktop\c# programming\Consoleprg4\Consoleprg4\bin\Debug\netcoreapp3.1\Consoleprg4.runtimeconfig.dev.json
+C:\Users\v\Desktop\c# programming\Consoleprg4\Consoleprg4\bin\Debug\netcoreapp3.1\Consoleprg4.dll
+C:\Users\v\Desktop\c# programming\Consoleprg4\Consoleprg4\bin\Debug\netcoreapp3.1\Consoleprg4.pdb
+C:\Users\v\Desktop\c# programming\Consoleprg4\Consoleprg4\obj\Debug\netcoreapp3.1\Consoleprg4.AssemblyInfoInputs.cache
+C:\Users\v\Desktop\c# programming\Consoleprg4\Consoleprg4\obj\Debug\netcoreapp3.1\Consoleprg4.AssemblyInfo.cs
+C:\Users\v\Desktop\c# programming\Consoleprg4\Consoleprg4\obj\Debug\netcoreapp3.1\Consoleprg4.dll
+C:\Users\v\Desktop\c# programming\Consoleprg4\Consoleprg4\obj\Debug\netcoreapp3.1\Consoleprg4.pdb
